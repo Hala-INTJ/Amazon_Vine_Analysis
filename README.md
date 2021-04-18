@@ -1,7 +1,7 @@
 # Challenge 16: Amazon Vine Analysis
 ## Overview of Amazon Vine Analysis
 
-This project analyzes the Amazon reviews of the furniture data by paid and unpaid Vine reviewers. The goal is to determine if there's a bias towards more higher ratings by paid Vine reviewers when compared to unpaid non-Vine reviewers.
+This project analyzes the Amazon reviews of the furniture data by Vine (paid) and non-Vine (unpaid) reviewers. The goal is to determine if there's a bias towards more higher ratings by paid Vine reviewers when compared to unpaid non-Vine reviewers.
 ## Amazon Vine Analysis Results
 
 The results of the table below are taken from [Vine_Review_Analysis.ipynb](https://github.com/Hala-INTJ/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb):
